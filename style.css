@@ -1,0 +1,22 @@
+body {
+    background:linear-gradient(to right top , #93a2ed , #7385de ,#7589eb, #94a1e3 ,#6579db , #4f66d6);
+    color:black;
+}
+.img_object {
+    border-style:solid;
+    border-width:2px;
+    border-radius:10px;
+}
+#camera {
+    border:2px dashed black;
+    width:350;
+    height:300;
+}
+.btn_heading {
+    font-family:Supermercado One;
+    text-align:center;
+}
+#head{
+    background-color:aquamarine;
+    
+}
